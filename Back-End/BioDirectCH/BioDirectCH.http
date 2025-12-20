@@ -1,0 +1,6 @@
+@BioDirectCH_HostAddress = http://localhost:5182
+
+GET {{BioDirectCH_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
